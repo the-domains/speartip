@@ -1,0 +1,28 @@
+name: Speartip
+favicon: null
+layout_spectrum: 0.5728980998974293
+typography_spectrum: 0.6898135293740779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9496324108913541
+  lightness: 0.7947863137815148
+  saturation: 0.3627821300178766
+  rhythmicContrast: 0.25871247868053615
+purpose: []
